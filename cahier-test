@@ -1,0 +1,12 @@
+Cahier de tests pour l'application demo-tdd.
+
+1) Identifier les scénarios de test
+
+addIntegers : L’addition de deux entiers admet un entier correspondant à la somme des deux entiers.
+subtractIntegers : La soustraction de deux entiers admet un entier correspondant à la différence des deux entiers.
+divideIntegers : La division de deux entiers admet un entier correspondant au quotient des deux entiers.
+multiplyIntegers : La soustraction de deux entiers admet un entier correspondant au produit des deux entiers.
+
+2) Coder les scénarios de test pour que cela échoue
+
+3) Coder les scénarios de test pour que cela fonctionne
